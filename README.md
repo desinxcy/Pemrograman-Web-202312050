@@ -3,7 +3,7 @@
 📚 Daftar Modul
 1. HTML Dasar
 📌 Belajar struktur dasar HTML, tag penting, form, dan semantic HTML.
-📂 Folder: Modul/
+📂 Folder: [modul1](https://github.com/rivaldi/tugas-modul/tree/modul/html-dasar)
 
 2. CSS
 🎨 Membuat tampilan website lebih menarik dengan styling.
