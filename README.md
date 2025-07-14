@@ -7,11 +7,11 @@
 
 2. CSS
 🎨 Membuat tampilan website lebih menarik dengan styling.
-📂 Folder: Modul2/
+📂 Folder:[modul2](https://github.com/desinxcy/Pemrograman-Web-202312050/tree/modul/tugas-1-3/modul2)
 
 3. Bootstrap
 ⚙️ Framework CSS untuk membuat layout responsif dan cepat.
-📂 Folder: Modul3/
+📂 Folder: [modul3](https://github.com/desinxcy/Pemrograman-Web-202312050/tree/modul/tugas-1-3/modul3)
 
 4. JavaScript
 🧠 Menambahkan interaktivitas ke halaman web.
