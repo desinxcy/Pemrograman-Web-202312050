@@ -31,5 +31,5 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/desinxcy/Pemrograman-Web-202312050/nama-repo.git
 cd nama-repo
