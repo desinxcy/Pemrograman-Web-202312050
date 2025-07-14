@@ -3,7 +3,7 @@
 📚 Daftar Modul
 1. HTML Dasar
 📌 Belajar struktur dasar HTML, tag penting, form, dan semantic HTML.
-📂 Folder: [modul1](https://github.com/desinxcy/Pemrograman-Web-202312050/tree/modul/tugas-1-3/modul1)
+📂 Folder: [modul1](https://github.com/desinxcy/Pemrograman-Web-202312050/tree/modul/tugas-1-3/modul1/TugasPraktikum.html)
 
 2. CSS
 🎨 Membuat tampilan website lebih menarik dengan styling.
@@ -15,7 +15,7 @@
 
 4. JavaScript
 🧠 Menambahkan interaktivitas ke halaman web.
-📂 Folder: tugas4/
+📂 Folder: [tugas4/](https://github.com/desinxcy/Pemrograman-Web-202312050/blob/tugas4/tugas4/tugas1.html)
 
 5. PHP
 💻 Bahasa pemrograman server-side untuk logika dan pemrosesan data.
